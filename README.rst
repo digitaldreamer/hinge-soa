@@ -90,3 +90,10 @@ matches API endpoints
 ::
 
     https://api.hinge.co:8002/v1/matches
+
+
+references
+##########
+
+* http://microservices.io/
+* http://martinfowler.com/articles/microservices.html
